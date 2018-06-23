@@ -1,0 +1,6 @@
+src
+src/CSL
+src/CSL/CMSIS/CoreSupport
+src/CSL/CMSIS/DeviceSupport
+src/CSL/STM32F10x_StdPeriph_Driver
+src/RTT
